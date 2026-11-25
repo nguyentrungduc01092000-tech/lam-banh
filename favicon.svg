@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Biểu tượng website Làm bánh tại nhà cho người mới</title>
+  <desc>Chiếc bánh cupcake: kem màu mận hồng, đế bánh màu mận đậm, quả anh đào trên đỉnh.</desc>
+  <circle cx="32" cy="11" r="5" fill="#d6336c"/>
+  <circle cx="21" cy="27" r="9" fill="#a83a6b"/>
+  <circle cx="32" cy="21" r="10" fill="#a83a6b"/>
+  <circle cx="43" cy="27" r="9" fill="#a83a6b"/>
+  <rect x="13" y="27" width="38" height="11" rx="5" fill="#a83a6b"/>
+  <path d="M17 38 L47 38 L43 57 Q42.5 59 40 59 L24 59 Q21.5 59 21 57 Z" fill="#7a2a4d"/>
+  <rect x="25" y="40" width="2.5" height="15" rx="1" fill="#f6dbe8" opacity="0.65"/>
+  <rect x="31" y="40" width="2.5" height="16" rx="1" fill="#f6dbe8" opacity="0.65"/>
+  <rect x="37" y="40" width="2.5" height="15" rx="1" fill="#f6dbe8" opacity="0.65"/>
+</svg>
