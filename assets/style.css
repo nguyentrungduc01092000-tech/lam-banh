@@ -1,5 +1,3 @@
-/* Làm bánh tại nhà cho người mới. Một file CSS duy nhất, mobile-first, không CDN.
-   Bảng màu riêng (25/11/2026, chống "một khuôn"): mận dâu #7a2a4d, khác 19 web còn lại. */
 * { box-sizing: border-box; }
 body { margin: 0; font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 1.05rem; line-height: 1.75; color: #2b1a24; background: #fff; }
 a { color: #8a2f56; }
